@@ -6,7 +6,7 @@ Vue.use(Vuex)
 
 export default new Vuex.Store({
   state: {
-    baseUrl: 'http://localhost:8000',
+    baseUrl: 'http://ec2-52-71-12-254.compute-1.amazonaws.com:8000',
     trips: [],
     stations: [],
     tripsPage: 1,
