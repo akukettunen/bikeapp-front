@@ -1,34 +1,3 @@
-# bikeapp-front
+This repo is the frontend to my implementation of Solitas Dev Academy pre-assignment.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Fond everything about the app [here](https://github.com/akukettunen/bikeapp)!
